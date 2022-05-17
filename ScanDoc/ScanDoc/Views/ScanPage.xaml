@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit" Title="Camera View"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ScanDoc.Views.ScanPage"
+             Shell.NavBarIsVisible="False">
+    <ContentPage.Content>
+        <Grid>
+            <xct:CameraView
+                x:Name="xctCameraView"
+                CaptureMode="Photo"
+                MediaCaptured="MediaCaptured"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand" />
+
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center" x:Name="imgViewPanel" Spacing="0">
+                <Frame Padding="3" BackgroundColor="White" HeightRequest="200" WidthRequest="200">
+                    <StackLayout Spacing="0">
+                        <Image Source="icon.png" Aspect="AspectFit" x:Name="imgView"/>
+                        <Button Text="Close" VerticalOptions="EndAndExpand" Clicked="CloseImageView"/>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+
+            <StackLayout VerticalOptions="EndAndExpand"  Padding="25" BackgroundColor="White">
+                <StackLayout Orientation="Vertical">
+                    <StackLayout Orientation="Horizontal">
+                        <ImageButton Source="gal" HorizontalOptions="StartAndExpand" BackgroundColor="Transparent" WidthRequest="50" Clicked="uploadBtn_Clicked" x:Name="uploadBtn"/>
+                        <ImageButton Source="cam_w2" WidthRequest="70" HorizontalOptions="CenterAndExpand"  BackgroundColor="Transparent" Clicked="CaptureImage" x:Name="captureBtn"/>
+                        <ImageButton Source="docs" WidthRequest="50" HorizontalOptions="EndAndExpand"  BackgroundColor="Transparent" Clicked="CaptureImage" x:Name="EditBtn"/>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

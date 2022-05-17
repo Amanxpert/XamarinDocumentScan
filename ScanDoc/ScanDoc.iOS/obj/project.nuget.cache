@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "4HkHfNqf4icZ2eEuPADU15UPVMhXso2bYpnZU+4wREZWoQsjMCWeIYdR+AcqI9OxtNMNH71ybrPynGARa/vu9Q==",
+  "success": true,
+  "projectFilePath": "F:\\Youtube Channels\\Xamarin Made Simple\\Xamarin Scan Doc\\GitRepository\\ScanDoc\\ScanDoc.iOS\\ScanDoc.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMANXPERT\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\AMANXPERT\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\AMANXPERT\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\AMANXPERT\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.0\\xamarin.communitytoolkit.2.0.0.nupkg.sha512",
+    "C:\\Users\\AMANXPERT\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\AMANXPERT\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.1 to 1.7.0. Reference the package directly from the project to select a different version. \r\n ScanDoc.iOS -> ScanDoc -> Xamarin.Essentials (>= 1.7.1) \r\n ScanDoc.iOS -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2337 to 5.0.0.2196. Reference the package directly from the project to select a different version. \r\n ScanDoc.iOS -> ScanDoc -> Xamarin.Forms (>= 5.0.0.2337) \r\n ScanDoc.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

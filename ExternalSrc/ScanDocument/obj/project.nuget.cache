@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/VLSxTVvBaz2zlrSD4wUOzSj1kSa1rbi6QC1F9k9Bh9zuDjl7UWTapVDjPMB9kvVxywTnJk6mBwG999WNIHAg==",
+  "success": true,
+  "projectFilePath": "F:\\Youtube Channels\\Xamarin Made Simple\\Xamarin Scan Doc\\GitRepository\\ExternalSrc\\ScanDocument\\ScanDocument.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMANXPERT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AMANXPERT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\AMANXPERT\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\AMANXPERT\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512"
+  ],
+  "logs": []
+}

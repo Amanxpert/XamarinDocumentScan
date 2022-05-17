@@ -1,0 +1,43 @@
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\bin\Debug\netstandard2.0\ScanDocument.deps.json
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\bin\Debug\netstandard2.0\ScanDocument.dll
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\bin\Debug\netstandard2.0\ScanDocument.pdb
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\bin\Debug\netstandard2.0\Imaging.Library.dll
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.AssemblyInfoInputs.cache
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.AssemblyInfo.cs
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.csproj.CoreCompileInputs.cache
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.csproj.CopyComplete
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.dll
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.pdb
+C:\Users\amanx\Downloads\LearningXamarin-master\LearningXamarin-master\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.csproj.AssemblyReference.cache
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.csproj.AssemblyReference.cache
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.GeneratedMSBuildEditorConfig.editorconfig
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.AssemblyInfoInputs.cache
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.AssemblyInfo.cs
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.csproj.CoreCompileInputs.cache
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.dll
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.pdb
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\ScanDocument.deps.json
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\ScanDocument.dll
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\ScanDocument.pdb
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\Imaging.Library.dll
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\Client Projects\Divine Infotech\AndroidSolution\Update2\KhalsaDocApp\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.csproj.CopyComplete
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\ScanDocument.deps.json
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\ScanDocument.dll
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\ScanDocument.pdb
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\Imaging.Library.dll
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\bin\Debug\netstandard2.0\Mono.Android.dll
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.csproj.AssemblyReference.cache
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.GeneratedMSBuildEditorConfig.editorconfig
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.AssemblyInfoInputs.cache
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.AssemblyInfo.cs
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.csproj.CoreCompileInputs.cache
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.csproj.CopyComplete
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.dll
+F:\Youtube Channels\Xamarin Made Simple\Xamarin Scan Doc\ScanDoc\ExternalSrc\ScanDocument\obj\Debug\netstandard2.0\ScanDocument.pdb
